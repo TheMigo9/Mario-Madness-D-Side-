@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Eme ekis.png" width="3520" height="2896">
+  <SubTexture name="doun0000.png" x="1" y="1" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="doun0001.png" x="353" y="1" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="doun0002.png" x="705" y="1" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="izkierrda0000.png" x="1057" y="1" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="izkierrda0001.png" x="1409" y="1" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="izkierrda0002.png" x="1" y="363" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="jiji0000.png" x="353" y="363" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="jiji0001.png" x="705" y="363" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="jiji0002.png" x="1057" y="363" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="marianoidle0000.png" x="1409" y="363" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="marianoidle0001.png" x="1" y="725" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="marianoidle0002.png" x="353" y="725" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="marianoidle0003.png" x="705" y="725" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="marianoidle0004.png" x="1057" y="725" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="marianoidle0005.png" x="1409" y="725" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="waza0000.png" x="1" y="1087" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="waza0001.png" x="353" y="1087" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+  <SubTexture name="waza0002.png" x="705" y="1087" width="350" height="360" frameX="0" frameY="0" frameWidth="350" frameHeight="360" />
+</TextureAtlas>

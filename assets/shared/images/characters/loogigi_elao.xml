@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="luisfrio.png">
+<SubTexture name="luisfrio down0000" x="718" y="1578" width="263" height="302" frameX="-77" frameY="-125" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio down0001" x="981" y="1578" width="263" height="302" frameX="-77" frameY="-125" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio down0002" x="1594" y="1035" width="245" height="319" frameX="-85" frameY="-108" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio down0003" x="1062" y="376" width="245" height="319" frameX="-85" frameY="-108" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio down0004" x="1594" y="714" width="243" height="321" frameX="-87" frameY="-106" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0000" x="268" y="1211" width="277" height="361" frameX="-87" frameY="-65" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0001" x="545" y="1211" width="277" height="361" frameX="-87" frameY="-65" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0002" x="1594" y="0" width="273" height="357" frameX="-88" frameY="-69" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0003" x="1594" y="357" width="273" height="357" frameX="-88" frameY="-69" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0004" x="823" y="1211" width="271" height="361" frameX="-89" frameY="-65" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0005" x="1094" y="1211" width="271" height="361" frameX="-89" frameY="-65" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0006" x="0" y="1211" width="268" height="367" frameX="-89" frameY="-59" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0007" x="1326" y="738" width="268" height="368" frameX="-89" frameY="-58" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0008" x="536" y="838" width="268" height="369" frameX="-89" frameY="-57" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio idle0009" x="804" y="838" width="268" height="369" frameX="-89" frameY="-57" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio left0000" x="1326" y="0" width="268" height="369" frameX="-9" frameY="-58" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio left0001" x="1326" y="369" width="268" height="369" frameX="-9" frameY="-58" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio left0002" x="0" y="838" width="268" height="372" frameX="-11" frameY="-54" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio left0003" x="268" y="838" width="267" height="372" frameX="-12" frameY="-54" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio left0004" x="544" y="422" width="266" height="376" frameX="-14" frameY="-50" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio left0005" x="1062" y="0" width="264" height="376" frameX="-17" frameY="-50" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio right0000" x="1867" y="0" width="360" height="351" frameX="-80" frameY="-76" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio right0001" x="1867" y="351" width="357" height="351" frameX="-83" frameY="-76" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio right0002" x="0" y="1578" width="360" height="348" frameX="-80" frameY="-79" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio right0003" x="360" y="1578" width="357" height="348" frameX="-83" frameY="-79" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio right0004" x="1867" y="702" width="354" height="349" frameX="-78" frameY="-78" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio right0005" x="1867" y="1051" width="349" height="349" frameX="-80" frameY="-78" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio up0000" x="0" y="0" width="261" height="422" frameX="-47" frameY="-6" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio up0001" x="261" y="0" width="255" height="422" frameX="-50" frameY="-6" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio up0002" x="517" y="0" width="275" height="418" frameX="-34" frameY="-10" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio up0003" x="792" y="0" width="270" height="418" frameX="-37" frameY="-10" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio up0004" x="0" y="422" width="274" height="416" frameX="-36" frameY="-11" frameWidth="440" frameHeight="441" />
+<SubTexture name="luisfrio up0005" x="274" y="422" width="270" height="416" frameX="-38" frameY="-11" frameWidth="440" frameHeight="441" />
+</TextureAtlas>

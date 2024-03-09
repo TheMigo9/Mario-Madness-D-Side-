@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="YoshGF.png">
+	
+	
+	<SubTexture name="bopleft0000" x="0" y="0" width="227" height="312" frameX="-1" frameY="-5" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0001" x="227" y="0" width="227" height="312" frameX="-1" frameY="-5" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0002" x="455" y="0" width="226" height="312" frameX="0" frameY="-5" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0003" x="681" y="0" width="226" height="312" frameX="0" frameY="-5" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0004" x="908" y="0" width="222" height="315" frameX="-3" frameY="-2" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0005" x="1130" y="0" width="222" height="315" frameX="-3" frameY="-2" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0006" x="0" y="315" width="220" height="317" frameX="-6" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0007" x="220" y="315" width="220" height="317" frameX="-6" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0008" x="440" y="315" width="218" height="317" frameX="-8" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0009" x="658" y="315" width="218" height="317" frameX="-8" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0010" x="876" y="315" width="218" height="317" frameX="-8" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0011" x="440" y="315" width="218" height="317" frameX="-8" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0012" x="658" y="315" width="218" height="317" frameX="-8" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopleft0013" x="876" y="315" width="218" height="317" frameX="-8" frameY="0" frameWidth="228" frameHeight="317" />
+	<SubTexture name="bopright0000" x="1094" y="315" width="219" height="313" frameX="-8" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0001" x="1313" y="315" width="219" height="313" frameX="-8" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0002" x="0" y="632" width="215" height="311" frameX="-9" frameY="-3" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0003" x="215" y="632" width="215" height="312" frameX="-9" frameY="-2" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0004" x="430" y="632" width="219" height="313" frameX="-5" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0005" x="649" y="632" width="219" height="313" frameX="-5" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0006" x="869" y="632" width="222" height="313" frameX="-2" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0007" x="1091" y="632" width="222" height="313" frameX="-2" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0008" x="1313" y="632" width="223" height="313" frameX="0" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0009" x="0" y="946" width="223" height="313" frameX="0" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0010" x="223" y="946" width="223" height="314" frameX="0" frameY="0" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0011" x="1313" y="632" width="223" height="313" frameX="0" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0012" x="0" y="946" width="223" height="313" frameX="0" frameY="-1" frameWidth="226" frameHeight="314" />
+	<SubTexture name="bopright0013" x="223" y="946" width="223" height="314" frameX="0" frameY="0" frameWidth="226" frameHeight="314" />
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Luis borracho.png" width="2172" height="3620">
+  <SubTexture name="down0000.png" x="1" y="1" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="down0001.png" x="1" y="1" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="down0002.png" x="1" y="363" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="down0003.png" x="1" y="363" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="left0000.png" x="1" y="725" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="left0001.png" x="1" y="725" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="left0002.png" x="1" y="1087" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="left0003.png" x="1" y="1087" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0000.png" x="1" y="1449" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0001.png" x="1" y="1449" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0002.png" x="363" y="1" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0003.png" x="363" y="1" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0004.png" x="363" y="363" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0005.png" x="363" y="363" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0006.png" x="363" y="725" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0007.png" x="363" y="725" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0008.png" x="363" y="1087" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0009.png" x="363" y="1087" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0010.png" x="363" y="1449" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luisborracho0011.png" x="363" y="1449" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luissinderechos0000.png" x="725" y="1" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luissinderechos0001.png" x="725" y="1" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luissinderechos0002.png" x="725" y="363" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="luissinderechos0003.png" x="725" y="363" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="pipipi0000.png" x="725" y="725" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="pipipi0001.png" x="725" y="725" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="pipipi0002.png" x="725" y="1087" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+  <SubTexture name="pipipi0003.png" x="725" y="1087" width="360" height="360" frameX="0" frameY="0" frameWidth="360" frameHeight="360" />
+</TextureAtlas>
