@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				-59
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "bopleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-265,
+				-64
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "bopright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yoshgf",
+	"position": [
+		110,
+		160
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		120,
+		95
+	],
+	"camera_position": [
+		-110,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

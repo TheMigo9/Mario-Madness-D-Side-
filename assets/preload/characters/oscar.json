@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-122
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "oscar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-121
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "esreal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tomenme",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-121
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "unafoto",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-121
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "conel",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oscar",
+	"position": [
+		200,
+		260
+	],
+	"healthicon": "oscar",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		194,
+		49
+	],
+	"camera_position": [
+		-240,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
